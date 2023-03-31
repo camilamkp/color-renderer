@@ -1,0 +1,25 @@
+*
+{
+  /* margin: 0; */
+  box-sizing: border-box;
+}
+
+.container
+{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.color-square
+{
+  width: 12.5rem;
+  color: white;
+  margin: 0.625rem;
+  padding: 0.625rem;
+  font-size: 0.625rem;
+  text-align: center;
+}
